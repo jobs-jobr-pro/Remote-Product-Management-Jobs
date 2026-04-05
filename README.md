@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Product manager Jobs 2026
 
-<sub><small>Last updated: Apr 04, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 05, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **Product manager opportunities in 2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -27,6 +27,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Toast](https://pos.toasttab.com/)** | **[Senior Product Manager, AI CSM](https://jobr.pro/job/40006653/senior-product-manager-ai-csm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, US | Remote | Apr 03 |
 | **[HHAeXchange](https://www.hhaexchange.com/)** | **[Sr. Product Manager, RCM](https://jobr.pro/job/40221593/sr-product-manager-rcm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Apr 03 |
 | **[Buyers Edge Platform](https://buyersedgeplatform.com/)** | **[Product Manager](https://jobr.pro/job/40221981/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remotely based | Remote | Apr 03 |
+| **[Corpay](https://www.corpay.com/)** | **[Senior Product Manager](https://jobr.pro/job/40225950/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Virtual | Remote | Apr 03 |
 | **[SimplyInsured](https://www.simplyinsured.com/)** | **[Lead Product Manager](https://jobr.pro/job/40221646/lead-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Apr 03 |
 | **[Dutchie](https://dutchie.com/)** | **[Senior Product Manager, Digital Growth](https://jobr.pro/job/40221600/senior-product-manager-digital-growth?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Apr 03 |
 | **[Dutchie](https://dutchie.com/)** | **[Senior Product Manager, Digital Commerce](https://jobr.pro/job/40221601/senior-product-manager-digital-commerce?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Apr 03 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Zayo Group](https://www.zayo.com/)** | **[Senior Technical Product Manager, Service Delivery](https://jobr.pro/job/40209336/senior-technical-product-manager-service-delivery?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - CO, United States | Remote | Apr 02 |
 | **[TD](https://www.td.com/)** | **[Product Manager (US)](https://jobr.pro/job/40211520/product-manager-us?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Wilmington (DE) No City Tax, United States | Remote | Apr 02 |
 | **[TD](https://www.td.com/)** | **[Senior Product Manager (US)](https://jobr.pro/job/40211521/senior-product-manager-us?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Wilmington (DE) City Tax, United States | Remote | Apr 02 |
-| **[Blueberry Pediatrics](https://www.blueberrypediatrics.com/)** | **[Product Manager, Platform & Infrastructure](https://jobr.pro/job/40203339/product-manager-platform-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, USA | Remote | Apr 01 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 188k  
+**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 189k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
