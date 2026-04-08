@@ -1,9 +1,9 @@
 <!-- prettier-ignore-start -->
-# Product manager Jobs 2026
+# Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Apr 07, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Apr 08, 2026 at 13:00 UTC</small></sub>
 
-This repository collects curated **Product manager opportunities in 2026**.  
+This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
 
 Visit [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs) — **you choose the job, we handle the paperwork**.  
@@ -13,10 +13,44 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Bertelsmann](https://www.bertelsmann.com/)** | **[Product Manager - YA & Juvenil](https://jobr.pro/job/40247322/product-manager-ya-juvenil?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Barcelona, B, ES, 8021 | Remote | Apr 08 |
+| **[Cuscal](https://www.cuscal.com/)** | **[Product Manager, Issuing](https://jobr.pro/job/40247329/product-manager-issuing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Sydney, NSW, Australia | Remote | Apr 08 |
+| **[Adobe](https://www.adobe.com/)** | **[Product Manager, Talent Development & Learning Technology Experience & Adoption](https://jobr.pro/job/40249678/product-manager-talent-development-learning-technology-experience-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Jose, United States | Remote | Apr 08 |
+| **[Housecall Pro](https://www.housecallpro.com/)** | **[Senior Staff Product Manager II (Risk)](https://jobr.pro/job/40244467/senior-staff-product-manager-ii-risk?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Brazil | Remote | Apr 07 |
+| **[Altruist](https://altruist.com/)** | **[Staff Product Manager, Trading](https://jobr.pro/job/40245208/staff-product-manager-trading?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago, IL | Remote | Apr 07 |
+| **[Altruist](https://altruist.com/)** | **[Senior Product Manager, Trading](https://jobr.pro/job/40245209/senior-product-manager-trading?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago, Illinois | Remote | Apr 07 |
+| **[Redox](https://www.redoxengine.com/)** | **[Senior Product Manager I - Interoperability Solutions](https://jobr.pro/job/40245027/senior-product-manager-i-interoperability-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Apr 07 |
+| **[Credo.AI](https://credo.ai)** | **[Product Manager, Enterprise Platform](https://jobr.pro/job/40245723/product-manager-enterprise-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India Remote | Remote | Apr 07 |
+| **[Gympass](https://www.gympass.com/)** | **[Senior Product Manager \| Payments](https://jobr.pro/job/40067205/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Brazil (Remote) | Remote | Apr 07 |
+| **[Boulevard](https://www.joinblvd.com/)** | **[Staff Product Manager, Shared Services](https://jobr.pro/job/40245214/staff-product-manager-shared-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - USA | Remote | Apr 07 |
+| **[Lightcast](https://lightcast.io/)** | **[Associate Product Manager (Data Platform) - 990](https://jobr.pro/job/40245030/associate-product-manager-data-platform-990?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (Work From Home) US | Remote | Apr 07 |
+| **[Vosker](https://www.vosker.com/)** | **[Product Manager - Consumer & Prosumer (B2C)](https://jobr.pro/job/40247356/product-manager-consumer-prosumer-b2c?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Montreal, QC, Canada | Remote | Apr 07 |
+| **[CarGurus](https://www.cargurus.com/)** | **[Product Manager, Consumer Mobile App](https://jobr.pro/job/40245733/product-manager-consumer-mobile-app?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Boston, Massachusetts, United States | Remote | Apr 07 |
+| **[Global Healthcare Exchange (GHX)](https://www.ghx.com/)** | **[Senior Product Manager - Industry Adoption](https://jobr.pro/job/40244536/senior-product-manager-industry-adoption?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Office Location or Remote - USA | Remote | Apr 07 |
+| **[Natera](https://www.natera.com/)** | **[Sr. Product Manager - AI & Data (Patient Experience & Commercial Operations Focus)](https://jobr.pro/job/40247372/sr-product-manager-ai-data-patient-experience-commercial-operations-focus?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | Apr 07 |
+| **[Reddit](https://www.redditinc.com/)** | **[Staff Product Manager, Paid User Acquisition](https://jobr.pro/job/40114370/staff-product-manager-paid-user-acquisition?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | Apr 07 |
+| **[Medtelligent](https://www.medtelligent.com/)** | **[App Store Product Manager](https://jobr.pro/job/40247379/app-store-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago, IL, United States | Remote | Apr 07 |
+| **[Fastly, Inc.](https://www.fastly.com/)** | **[Staff Product Manager, Media](https://jobr.pro/job/40244470/staff-product-manager-media?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA | Remote | Apr 07 |
+| **[Fastly, Inc.](https://www.fastly.com/)** | **[Staff Product Manager, Metacognition](https://jobr.pro/job/40244471/staff-product-manager-metacognition?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA | Remote | Apr 07 |
+| **[OfferUp](https://offerup.com/)** | **[Principal Product Manager - Consumer (Hybrid @ Bellevue, WA)](https://jobr.pro/job/40247382/principal-product-manager-consumer-hybrid-bellevue-wa?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hybrid @ Bellevue | Remote | Apr 07 |
+| **[World Wide Technology](https://www.wwt.com/)** | **[Sr. Digital Product Manager- Physical AI](https://jobr.pro/job/40089621/sr-digital-product-manager-physical-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - Nationwide, United States | Remote | Apr 07 |
+| **[KnowBe4, Inc.](https://www.knowbe4.com/)** | **[Snr. Product Manager, End User (Hybrid)](https://jobr.pro/job/40244623/snr-product-manager-end-user-hybrid?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Clearwater, Florida | Remote | Apr 07 |
+| **[Flash](https://flashapp.com.br)** | **[Product Manager Sênior](https://jobr.pro/job/40247397/product-manager-senior?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remoto | Remote | Apr 07 |
+| **[Deel](https://www.deel.com/)** | **[Senior Product Manager - Equity](https://jobr.pro/job/40174637/senior-product-manager-equity?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | EMEA | Remote | Apr 07 |
+| **[GoDaddy](https://godaddy.com)** | **[Principal Product Manager](https://jobr.pro/job/40244553/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Apr 07 |
+| **[Toast](https://pos.toasttab.com/)** | **[Senior Product Manager, GTM](https://jobr.pro/job/40245267/senior-product-manager-gtm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, US | Remote | Apr 07 |
 | **[Tesco](https://www.tesco.com/)** | **[Product Manager](https://jobr.pro/job/38675359/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bengaluru, Karnataka, India, India | Remote | Apr 07 |
 | **[Septeo](https://www.septeo.com)** | **[Product Manager SaaS B2B H/F full remote](https://jobr.pro/job/40236030/product-manager-saas-b2b-hf-full-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Paris, IDF, France | Remote | Apr 07 |
+| **[Merkle Science](https://www.merklescience.com/)** | **[Senior Product Manager](https://jobr.pro/job/38576202/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York | Remote | Apr 07 |
+| **[Your Personal AI](https://yourpersonalai.net)** | **[AI Product Manager](https://jobr.pro/job/40227749/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote job | Remote | Apr 07 |
+| **[Dashmote](https://www.dashmote.com/)** | **[Product Manager - Shanghai](https://jobr.pro/job/40244527/product-manager-shanghai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Shanghai, Shanghai Shi, China | Remote | Apr 07 |
 | **[Go1 Australia](https://www.go1.com/)** | **[Senior Product Manager (12 Month Contract)](https://jobr.pro/job/40234796/senior-product-manager-12-month-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Australia | Remote | Apr 07 |
 | **[Bounteous](https://www.bounteous.com/)** | **[Sr AI Product Manager](https://jobr.pro/job/40234797/sr-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Dallas, TX | Remote | Apr 07 |
+| **[WEX](https://www.wexinc.com/)** | **[Product Manager](https://jobr.pro/job/40241231/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India - Bangalore - Remote Office | Remote | Apr 07 |
+| **[Cox Enterprises](https://www.coxenterprises.com/)** | **[Sr Product Manager](https://jobr.pro/job/40243063/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Atlanta, GA - 6305 Peachtree Dunwoody Rd Bldg B, United States | Remote | Apr 07 |
+| **[Adobe](https://www.adobe.com/)** | **[Senior Product Manager (Firefly)](https://jobr.pro/job/40242670/senior-product-manager-firefly?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Noida, India | Remote | Apr 07 |
+| **[Motorola Solutions](https://www.motorolasolutions.com/)** | **[Principal Product Manager - Computer Vision](https://jobr.pro/job/40243084/principal-product-manager-computer-vision?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Waltham, MA, United States | Remote | Apr 07 |
+| **[RTX](https://www.rtx.com/)** | **[ServiceNow Product Manager - HRSD Lifecycle Events](https://jobr.pro/job/40244144/servicenow-product-manager-hrsd-lifecycle-events?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US-CT-REMOTE, United States | Remote | Apr 07 |
 | **[Zenni Optical](https://www.zennioptical.com/)** | **[Staff Product Manager, Organic Growth](https://jobr.pro/job/40234800/staff-product-manager-organic-growth?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Novato, California | Remote | Apr 06 |
 | **[Karat](https://karat.com/)** | **[Senior Principal Product Manager, New Initiatives (United States)](https://jobr.pro/job/40234803/senior-principal-product-manager-new-initiatives-united-states?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (United States - Select States) | Remote | Apr 06 |
 | **[Twin Health](https://www.usa.twinhealth.com/)** | **[Principal Product Manager, Consumer Experiences](https://jobr.pro/job/40234805/principal-product-manager-consumer-experiences?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, USA | Remote | Apr 06 |
@@ -29,58 +63,24 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Finalis](https://finalis.com/)** | **[Sr. Product Manager](https://jobr.pro/job/40235015/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | USA \| Remote | Remote | Apr 06 |
 | **[Skylight](https://skylight.digital/)** | **[Senior/Staff/Principal Product Manager (NARA)](https://jobr.pro/job/40234816/seniorstaffprincipal-product-manager-nara?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Apr 06 |
 | **[Planet Labs Inc.](https://www.planet.com/)** | **[Senior Product Manager, Real Time Insights](https://jobr.pro/job/40236098/senior-product-manager-real-time-insights?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA | Remote | Apr 06 |
-| **[1Password](https://1password.com/)** | **[Staff Product Manager, Identity & Access Management](https://jobr.pro/job/40213625/staff-product-manager-identity-access-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (United States \| Canada) | Remote | Apr 06 |
-| **[Commvault](https://www.commvault.com/)** | **[Senior Product Manager - File Servers](https://jobr.pro/job/40234818/senior-product-manager-file-servers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Apr 06 |
-| **[SecurityScorecard](https://securityscorecard.com/)** | **[Senior/Principal Product Manager – Partnerships and Integrations](https://jobr.pro/job/40234823/seniorprincipal-product-manager-partnerships-and-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (US) | Remote | Apr 06 |
-| **[SecurityScorecard](https://securityscorecard.com/)** | **[Senior Product Manager, AI](https://jobr.pro/job/40234824/senior-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (United States) | Remote | Apr 06 |
-| **[Bounteous](https://www.bounteous.com/)** | **[Senior Product Manager (Contract)](https://jobr.pro/job/40234827/senior-product-manager-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Apr 06 |
-| **[Chromatic](https://www.chromatic.com/)** | **[Senior Product Manager](https://jobr.pro/job/40234905/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote \| US or Canada | Remote | Apr 06 |
-| **[Mozilla](https://www.mozilla.org/)** | **[Senior Product Manager, Media, Graphics & OS Integrations](https://jobr.pro/job/40234828/senior-product-manager-media-graphics-os-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Canada; Remote US | Remote | Apr 06 |
-| **[Red Ventures](https://www.redventures.com/)** | **[Senior AI Product Manager, Agents](https://jobr.pro/job/40175124/senior-ai-product-manager-agents?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - US | Remote | Apr 06 |
-| **[Lark Health](https://www.lark.com/)** | **[Senior Product Manager, Data Products](https://jobr.pro/job/40234911/senior-product-manager-data-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lark HQ | Remote | Apr 06 |
-| **[NICE](https://www.nice.com/)** | **[Senior AI Product Manager](https://jobr.pro/job/40236192/senior-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Israel - Raanana | Remote | Apr 06 |
-| **[Fundraise Up](https://fundraiseup.com/)** | **[Product Manager, Core Markets](https://jobr.pro/job/40214241/product-manager-core-markets?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Spain - Remote | Remote | Apr 06 |
-| **[Mixpanel](https://mixpanel.com/)** | **[Senior Product Manager - Platform](https://jobr.pro/job/40236370/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, US (Hybrid) | Remote | Apr 06 |
-| **[Madiff](https://madiff.eu/)** | **[Product Manager – AI-Powered Startup](https://jobr.pro/job/40230093/product-manager-ai-powered-startup?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Apr 06 |
-| **[Experian](https://www.experian.com/)** | **[Product Manager, Data (Credit & Alternative Data Strategy) - Remote](https://jobr.pro/job/40233930/product-manager-data-credit-alternative-data-strategy-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Costa Mesa, CA, United States | Remote | Apr 06 |
-| **[Vantage Group Holdings Ltd.](https://www.vantagerisk.com/)** | **[Software Product Manager](https://jobr.pro/job/40231008/software-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Virtual | Remote | Apr 06 |
-| **[Veeva Systems](https://www.veeva.com/)** | **[Senior Product Manager - Campaign Manager](https://jobr.pro/job/40234931/senior-product-manager-campaign-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Canada - Toronto | Remote | Apr 06 |
-| **[Veeva Systems](https://www.veeva.com/)** | **[Senior Product Manager - Vault Platform Authentication](https://jobr.pro/job/40234932/senior-product-manager-vault-platform-authentication?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | California - Pleasanton | Remote | Apr 06 |
-| **[Veeva Systems](https://www.veeva.com/)** | **[Senior Product Manager - Vault QMS](https://jobr.pro/job/40180870/senior-product-manager-vault-qms?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | California - Pleasanton | Remote | Apr 06 |
-| **[Moxie](https://www.joinmoxie.com)** | **[Senior Product Manager, Clinical](https://jobr.pro/job/40227900/senior-product-manager-clinical?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - US | Remote | Apr 06 |
-| **[Humana](https://www.humana.com/)** | **[Lead Product Manager - IVR, Digital IVA & Conversational AI](https://jobr.pro/job/40231526/lead-product-manager-ivr-digital-iva-conversational-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote US, United States | Remote | Apr 06 |
-| **[GE Aerospace](https://www.geaerospace.com/)** | **[Staff -Technical Product Manager -Travel Services](https://jobr.pro/job/40230085/staff-technical-product-manager-travel-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bengaluru, India | Remote | Apr 06 |
-| **[ZOLL Medical Corporation](https://www.zoll.com/)** | **[Senior Product Manager](https://jobr.pro/job/40232257/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US MA Chelmsford 269, United States | Remote | Apr 06 |
-| **[Medline Industries, LP](https://www.medline.com/)** | **[Product Manager-Textiles](https://jobr.pro/job/40231768/product-manager-textiles?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | CORP- Northfield - Headquarters, United States | Remote | Apr 06 |
-| **[GEICO](https://www.geico.com/)** | **[Principal Product Manager - Growth & Engagement](https://jobr.pro/job/40232476/principal-product-manager-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | MD Bethesda (Office) - JPS, United States | Remote | Apr 06 |
-| **[Unity](https://unity.com/)** | **[Senior Product Manager, Ads Measurement](https://jobr.pro/job/40227903/senior-product-manager-ads-measurement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, California, USA | Remote | Apr 05 |
-| **[West500 Partners](https://west500partners.com/)** | **[Product Manager](https://jobr.pro/job/40231426/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lakeland, Florida, United States | Remote | Apr 05 |
-| **[WorkFlex](https://www.getworkflex.com/)** | **[Product Manager (German Speaker)](https://jobr.pro/job/40229726/product-manager-german-speaker?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Amsterdam, Netherlands | Remote | Apr 05 |
-| **[Xirgo Technologies](https://xirgo.com/)** | **[Sr. Product Manager](https://jobr.pro/job/40229396/sr-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (United States) | Remote | Apr 05 |
-| **[TP-Link Deutschland GmbH](https://www.tp-link.com/)** | **[(Senior) Product Manager Router (m/w/d)](https://jobr.pro/job/40229397/senior-product-manager-router-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, Deutschland, Düsseldorf | Remote | Apr 05 |
-| **[Acclaro](https://acclaro.com/)** | **[Product Manager](https://jobr.pro/job/40228744/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - Remote, California, United States | Remote | Apr 05 |
-| **[Crum & Forster](https://www.cfins.com/)** | **[Product Manager, Product Management & Regulatory Compliance, Executive Risk - Jersey City, NJ/Hybrid](https://jobr.pro/job/40228206/product-manager-product-management-regulatory-compliance-executive-risk-jersey-city-njhybrid?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | JERSEY CITY, NJ, United States | Remote | Apr 05 |
-| **[RISK](https://www.risk.inc)** | **[Senior Product Manager](https://jobr.pro/job/40228207/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Warsaw, Masovian Voivodeship, Poland | Remote | Apr 05 |
-| **[Gate](https://www.gate.com/)** | **[Product Manager - Compliance](https://jobr.pro/job/40228210/product-manager-compliance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | APAC-C1 | Remote | Apr 05 |
-| **[Skyflow](https://www.skyflow.com/)** | **[Product Manager](https://jobr.pro/job/40049532/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - India | Remote | Apr 05 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 46 companies | Avg salary: 204k  
+**Current Stats:** 50 jobs | 100% remote | 46 companies | Avg salary: 201k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** strategy  
+**Trending Skills:** Various technologies  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
 
-This repository tracks current Product manager positions from companies across different industries, updated daily.
+This repository tracks **remote Product Manager positions** from companies across different industries, updated daily.
 
 **What makes this useful:**
 
-- Fresh Product manager positions aggregated from multiple job boards
+- Fresh **remote Product Manager positions** aggregated from multiple job boards
 - Daily updates mean you see opportunities as soon as they're posted
-- Mix of remote, hybrid, and on-site positions from various company sizes
+- Fully **remote** roles—employers hiring Product Manager talent without a mandatory office
 - Direct links to apply on company career pages
 
 ## For Job Seekers
@@ -95,7 +95,7 @@ This repository tracks current Product manager positions from companies across d
 
 ## For Recruiters
 
-This repository gets consistent traffic from Product manager professionals actively job searching. The audience is pre-qualified and specifically interested in Product manager opportunities.
+This repository gets consistent traffic from **remote Product Manager professionals** actively job searching. The audience is pre-qualified and specifically interested in **remote Product Manager opportunities**.
 
 This repository is automatically maintained by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs). If you find any issues or have suggestions, please contact us at hello@jobr.pro.
 
