@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 17, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 18, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Ncontracts]()** | **[Senior Product Manager](https://jobr.pro/job/40830072/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | May 18 |
 | **[Camunda]()** | **[Senior Sales Productivity Manager](https://jobr.pro/job/40812067/senior-sales-productivity-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | May 16 |
 | **[Superhuman%20platform%20inc]()** | **[Senior Product Manager, Admin & Buyer Experience](https://jobr.pro/job/40810840/senior-product-manager-admin-buyer-experience?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hub - Seattle | Remote | May 16 |
 | **[Superhuman%20platform%20inc]()** | **[Senior Product Marketing Manager, Enterprise](https://jobr.pro/job/40810839/senior-product-marketing-manager-enterprise?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hub - San Francisco | Remote | May 15 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Gen]()** | **[Director of Product Management – Reputation Defender](https://jobr.pro/job/40788120/director-of-product-management-reputation-defender?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | USA - Mountain View, CA | Remote | May 14 |
 | **[Latent]()** | **[Senior Product Marketing Manager](https://jobr.pro/job/40806145/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York City | Remote | May 14 |
 | **[ezCater, Inc]()** | **[Senior Data Product Manager (Remote)](https://jobr.pro/job/40792346/senior-data-product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Boston, MA | Remote | May 14 |
-| **[Spotify]()** | **[Senior Product Manager - Advertising](https://jobr.pro/job/40791789/senior-product-manager-advertising?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York, NY | Remote | May 14 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 7.689662241387793e+168k  
+**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 5.17242148276569e+168k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
