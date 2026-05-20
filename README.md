@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 20, 2026 at 15:43 UTC</small></sub>
+<sub><small>Last updated: May 20, 2026 at 16:53 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Spoton Transact LLC](https://spoton.com)** | **[Product Manager- Reporting](https://jobr.pro/job/40866110/product-manager-reporting?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago, Illinois, United States | Remote | May 20 |
 | **[Pleo](https://pleo.io)** | **[Senior Product Manager - Payments](https://jobr.pro/job/40866016/senior-product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Denmark | Remote | May 20 |
 | **[Xero](https://xero.com)** | **[Lead Product Manager, AI](https://jobr.pro/job/40859518/lead-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | AU: Melbourne: (260 Burwood Rd) | Remote | May 20 |
 | **[Heidi AI](https://www.heidihealth.com/)** | **[Product Manager, Integrations](https://jobr.pro/job/40858342/product-manager-integrations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Melbourne | Remote | May 20 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Wisdom](https://www.withwisdom.com/)** | **[Principal Product Manager (AI)](https://jobr.pro/job/40842756/principal-product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | May 18 |
 | **[Quora](https://careers.quora.com/)** | **[Principal Product Manager - Growth, Quora (Remote)](https://jobr.pro/job/40841862/principal-product-manager-growth-quora-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - Multiple Locations | Remote | May 18 |
 | **[Slingshot Aerospace](https://slingshot.space)** | **[Director of Product Management](https://jobr.pro/job/40838723/director-of-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, U.S. / Travel as needed | Remote | May 18 |
-| **[Harvey](https://www.harvey.ai/)** | **[Group Product Manager, Knowledge Platform](https://jobr.pro/job/40840007/group-product-manager-knowledge-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bengaluru | Remote | May 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 39 companies | Avg salary: 5.363680000118183e+124k  
+**Current Stats:** 50 jobs | 100% remote | 39 companies | Avg salary: 8.043483391346086e+130k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
