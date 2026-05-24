@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 23, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: May 24, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Everself](https://everself.com/)** | **[Lead/Senior Product Manager (Hybrid, San Francisco)](https://jobr.pro/job/40917672/leadsenior-product-manager-hybrid-san-francisco?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | May 23 |
 | **[Jump](https://jump-jump.com)** | **[Staff Product Manager, New Product Area](https://jobr.pro/job/40909727/staff-product-manager-new-product-area?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | May 23 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Product Manager, Model Lifecycle & Management](https://jobr.pro/job/40906468/staff-product-manager-model-lifecycle-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA, US; Remote, US | Remote | May 22 |
 | **[Patlytics, Inc.](https://www.patlytics.ai/)** | **[Product Manager](https://jobr.pro/job/40911537/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York | Remote | May 22 |
@@ -49,6 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Alpaca](https://alpaca.markets)** | **[Product Manager, Accounts](https://jobr.pro/job/40902820/product-manager-accounts?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - North America (EST) | Remote | May 22 |
 | **[MeridianLink](https://www.meridianlink.com/)** | **[Senior Product Manager - AI Platform](https://jobr.pro/job/40905783/senior-product-manager-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | May 22 |
 | **[BJAK](https://bjak.my/en/about-us)** | **[Product Manager](https://jobr.pro/job/40902279/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Indonesia | Remote | May 22 |
+| **[Musixmatch S.p.a](https://musixmatch.com)** | **[Product Manager, AI & Content Operations](https://jobr.pro/job/40916084/product-manager-ai-content-operations?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bologna or Remote | Remote | May 22 |
 | **[Apollo.io](https://www.apollo.io)** | **[Lead Product Marketing Manager](https://jobr.pro/job/40899735/lead-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, United States | Remote | May 22 |
 | **[Penumbra](https://www.penumbrainc.com/)** | **[Neurovascular EMEA Product Marketing Manager (m/f/d)](https://jobr.pro/job/40901149/neurovascular-emea-product-marketing-manager-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Europe | Remote | May 22 |
 | **[Aledade](https://aledade.com)** | **[Director of Product Management (Salesforce), Remote](https://jobr.pro/job/40900578/director-of-product-management-salesforce-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, United States | Remote | May 22 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Moneyhub](https://moneyhub.co.nz)** | **[Product Manager](https://jobr.pro/job/40906525/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United Kingdom | Remote | May 22 |
 | **[Talentgrator](https://talentgrator.com/en/)** | **[Product Marketing Manager](https://jobr.pro/job/40906161/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Georgia | Remote | May 22 |
 | **[FE fundinfo](https://www.fefundinfo.com/)** | **[Product Manager - UK Fund Platforms (contract)](https://jobr.pro/job/40902879/product-manager-uk-fund-platforms-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | London, England, United Kingdom | Remote | May 22 |
-| **[Oscilar](https://oscilar.com)** | **[Product Manager - AI](https://jobr.pro/job/40893400/product-manager-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | May 21 |
-| **[FinQuery](https://finquery.com/)** | **[Sr. Product Accounting Manager](https://jobr.pro/job/40897072/sr-product-accounting-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, South Africa | Remote | May 21 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 8.461551503008462e+151k  
+**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 8.46155150300846e+149k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
