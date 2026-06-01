@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: May 31, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 01, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Supabase](https://supabase.com)** | **[Product Manager - Postgres Platform](https://jobr.pro/job/41000371/product-manager-postgres-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 01 |
+| **[Supabase](https://supabase.com)** | **[Product Manager - Platform](https://jobr.pro/job/41000370/product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 01 |
+| **[Redis](https://redis.io/)** | **[Senior Product Manager, Redis Core (Document Database) - Product Management - Bulgaria](https://jobr.pro/job/41001086/senior-product-manager-redis-core-document-database-product-management-bulgaria?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bulgaria | Remote | Jun 01 |
+| **[Accurx](https://accurx.com)** | **[Product Manager](https://jobr.pro/job/41001129/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | London (Shoreditch) | Remote | Jun 01 |
+| **[G-P](https://gpblog.com)** | **[Principal Product Manager – Agentic AI Platform](https://jobr.pro/job/40998197/principal-product-manager-agentic-ai-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India (Remote-First) | Remote | May 31 |
+| **[Nebius](https://nebius.ai)** | **[Product Marketing Manager - Token Factory](https://jobr.pro/job/40997245/product-marketing-manager-token-factory?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | May 31 |
+| **[Oportun](https://oportun.com)** | **[Principal Product Manager (R14043)](https://jobr.pro/job/40999389/principal-product-manager-r14043?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - India | Remote | May 31 |
 | **[netwealth](http://www.netwealth.com)** | **[Product Manager](https://jobr.pro/job/40994935/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Melbourne Office | Remote | May 31 |
 | **[Ditto](http://ditto.fi/)** | **[Senior Product Manager](https://jobr.pro/job/40996368/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (Atlanta, Austin, San Francisco, Seattle) | Remote | May 30 |
 | **[Lawhive](https://lawhive.com)** | **[Product Manager](https://jobr.pro/job/40991001/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | London | Remote | May 30 |
@@ -56,17 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Twilio](https://twilio.com)** | **[Product Manager, L2](https://jobr.pro/job/40969374/product-manager-l2?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - US | Remote | May 28 |
 | **[Constant Contact](https://vision6.com.au)** | **[Growth Product Manager (Principal)](https://jobr.pro/job/40973257/growth-product-manager-principal?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - US; Waltham or Boston, MA; Toronto, ON | Remote | May 28 |
 | **[Vultr](https://www.vultr.com/)** | **[Senior Technical Product Manager, Networking](https://jobr.pro/job/40984002/senior-technical-product-manager-networking?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | May 28 |
-| **[Affinity.co](https://affinity.co)** | **[Senior Product Manager, CRM](https://jobr.pro/job/40972185/senior-product-manager-crm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Canada (Remote) | Remote | May 28 |
-| **[Serhant](https://serhant.com/)** | **[Senior Product Manager](https://jobr.pro/job/40974990/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, USA | Remote | May 28 |
-| **[Jerry.ai](https://jerry.ai/)** | **[Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/40975501/technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco Bay Area | Remote | May 28 |
-| **[Jerry](https://www.jerry.ai)** | **[Technical Product Manager, AI Engineering & Systems](https://jobr.pro/job/40974580/technical-product-manager-ai-engineering-systems?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco Bay Area | Remote | May 28 |
-| **[INFUSE](https://infuse.us)** | **[Senior Product Manager (Remote, Contract)](https://jobr.pro/job/40974814/senior-product-manager-remote-contract?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Slovenia | Remote | May 28 |
-| **[Paragon](https://useparagon.com)** | **[Technical Product Manager](https://jobr.pro/job/40973097/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Los Angeles HQ (Remote OK) | Remote | May 28 |
-| **[Algolia](https://algolia.com)** | **[Product Marketing Manager](https://jobr.pro/job/40967462/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | May 28 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 8.400004666677467e+173k  
+**Current Stats:** 50 jobs | 100% remote | 41 companies | Avg salary: 2.5862156862155865e+167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
