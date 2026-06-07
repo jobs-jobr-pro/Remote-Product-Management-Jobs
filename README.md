@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 06, 2026 at 13:00 UTC</small></sub>
+<sub><small>Last updated: Jun 07, 2026 at 13:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -15,6 +15,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | ------- | -------- | -------- | ---- | ------ |
 | **[Superhuman%20platform%20inc]()** | **[Director Product Management, Data](https://jobr.pro/job/41061305/director-product-management-data?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hub - San Francisco | Remote | Jun 06 |
 | **[Scribd, Inc.](https://scribd.com)** | **[Senior Product Manager](https://jobr.pro/job/41062333/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 05 |
+| **[Overflow](https://www.overflow.co/)** | **[Product Marketing Manager](https://jobr.pro/job/41064502/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 05 |
 | **[Watershed](https://watershed.cn)** | **[Senior product manager, methodology](https://jobr.pro/job/41063201/senior-product-manager-methodology?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 05 |
 | **[Rithum LinkedIn Board]()** | **[Senior Product Manager - Client Data Visualization](https://jobr.pro/job/41062359/senior-product-manager-client-data-visualization?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Raleigh - Remote | Remote | Jun 05 |
 | **[Rithum](https://rithum.com)** | **[Senior Product Manager - Client Data Visualization](https://jobr.pro/job/41057400/senior-product-manager-client-data-visualization?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States - Remote | Remote | Jun 05 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Product Manager, Billing](https://jobr.pro/job/41047056/staff-product-manager-billing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA, US; Remote, CA, US | Remote | Jun 04 |
 | **[Jerry](https://www.jerry.ai)** | **[Manager, BizOps & Strategy (New Products)](https://jobr.pro/job/41052499/manager-bizops-strategy-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Toronto, Ontario | Remote | Jun 04 |
 | **[Jerry.ai](https://jerry.ai/)** | **[Manager, BizOps & Strategy (New Products)](https://jobr.pro/job/41046009/manager-bizops-strategy-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Toronto, Ontario | Remote | Jun 04 |
-| **[Jerry](https://www.jerry.ai)** | **[Manager, BizOps & Analytics (New Products)](https://jobr.pro/job/41052498/manager-bizops-analytics-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Toronto, Ontario | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 37 companies | Avg salary: 1.2333340900339833e+173k  
+**Current Stats:** 50 jobs | 100% remote | 38 companies | Avg salary: 1.275862851759293e+167k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics, roadmap, strategy  
