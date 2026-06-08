@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Goodstack](https://goodstack.io)** | **[Senior Product Marketing Manager](https://jobr.pro/job/41071084/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | 🇺🇸 USA | Remote | Jun 08 |
+| **[Tessera Labs](https://tesseralabs.ai)** | **[Product Manager, Intern](https://jobr.pro/job/41070867/product-manager-intern?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Jose Office (HQ) | Remote | Jun 08 |
 | **[Superhuman%20platform%20inc]()** | **[Director Product Management, Data](https://jobr.pro/job/41061305/director-product-management-data?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hub - San Francisco | Remote | Jun 06 |
 | **[Scribd, Inc.](https://scribd.com)** | **[Senior Product Manager](https://jobr.pro/job/41062333/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 05 |
 | **[Overflow](https://www.overflow.co/)** | **[Product Marketing Manager](https://jobr.pro/job/41064502/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 05 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Adoreal](https://adoreal.com)** | **[Product Manager, HealthTech](https://jobr.pro/job/41063523/product-manager-healthtech?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Texas, United States | Remote | Jun 05 |
 | **[Team17 Digital](https://www.team17.com/)** | **[Product Manager, Live Service](https://jobr.pro/job/41063064/product-manager-live-service?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United Kingdom | Remote | Jun 05 |
 | **[Biocytogen](https://biocytogen.com)** | **[Business Development Manager- Product & Services](https://jobr.pro/job/41061105/business-development-manager-product-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | France | Remote | Jun 05 |
-| **[Hospitable](https://hospitable.com)** | **[Staff Product Marketing Manager (USA/EMEA - Remote)](https://jobr.pro/job/41059508/staff-product-marketing-manager-usaemea-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, Oregon, United States | Remote | Jun 05 |
-| **[Pinterest](https://www.pinterest.com/)** | **[Staff Product Manager, Billing](https://jobr.pro/job/41047056/staff-product-manager-billing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA, US; Remote, CA, US | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 1.321429382179268e+161k  
+**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 4.4571560714366794e+160k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics, roadmap  
