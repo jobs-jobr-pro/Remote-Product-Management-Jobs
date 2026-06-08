@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 08, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 08, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -55,6 +55,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Agent](https://getagents.co/)** | **[Product Manager (Remote \| HealthTech Startup)](https://jobr.pro/job/41050820/product-manager-remote-healthtech-startup?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Canada | Remote | Jun 05 |
 | **[Easygenerator](https://www.easygenerator.com/en/)** | **[Senior Product Manager](https://jobr.pro/job/41059686/senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Dubai | Remote | Jun 05 |
 | **[Blue River Technology](https://bluerivertechnology.com)** | **[Product Manager, Platform](https://jobr.pro/job/41052442/product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote-US | Remote | Jun 05 |
+| **[On Me Gifting](https://onme.com)** | **[Product Manager](https://jobr.pro/job/41069971/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 05 |
 | **[Splash Financial](https://www.splashfinancial.com/)** | **[Product Manager](https://jobr.pro/job/41048295/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States Only | Remote | Jun 05 |
 | **[Coretek Services](https://www.coretek.com/)** | **[Senior Microsoft Consultant -- E5 \| Productivity, Security & Endpoint Management](https://jobr.pro/job/41068143/senior-microsoft-consultant-e5-productivity-security-endpoint-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Jun 05 |
 | **[Adoreal](https://adoreal.com)** | **[Product Manager, HealthTech](https://jobr.pro/job/41063523/product-manager-healthtech?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Texas, United States | Remote | Jun 05 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Biocytogen](https://biocytogen.com)** | **[Business Development Manager- Product & Services](https://jobr.pro/job/41061105/business-development-manager-product-services?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | France | Remote | Jun 05 |
 | **[Hospitable](https://hospitable.com)** | **[Staff Product Marketing Manager (USA/EMEA - Remote)](https://jobr.pro/job/41059508/staff-product-marketing-manager-usaemea-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, Oregon, United States | Remote | Jun 05 |
 | **[Pinterest](https://www.pinterest.com/)** | **[Staff Product Manager, Billing](https://jobr.pro/job/41047056/staff-product-manager-billing?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA, US; Remote, CA, US | Remote | Jun 04 |
-| **[Jerry](https://www.jerry.ai)** | **[Manager, BizOps & Strategy (New Products)](https://jobr.pro/job/41052499/manager-bizops-strategy-new-products?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Toronto, Ontario | Remote | Jun 04 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 39 companies | Avg salary: 1.321429382179268e+161k  
+**Current Stats:** 50 jobs | 100% remote | 40 companies | Avg salary: 1.321429382179268e+161k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** agile, analytics, roadmap, strategy  
+**Trending Skills:** agile, analytics, roadmap  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
