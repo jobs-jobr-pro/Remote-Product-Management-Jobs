@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 13, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 13, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -50,6 +50,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mitratech](https://mitratech.com)** | **[Managed Bill Review - Senior Product Manager](https://jobr.pro/job/41176009/managed-bill-review-senior-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote US | Remote | Jun 12 |
 | **[Superside](https://www.superside.com)** | **[Growth Product Manager, Website & Experimentation](https://jobr.pro/job/41180531/growth-product-manager-website-experimentation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Global | Remote | Jun 12 |
 | **[NBCUniversal](https://www.nbcunicareers.com)** | **[Product Manager, Digital Advertising Capabilities (Supply & Demand Quality)](https://jobr.pro/job/41175499/product-manager-digital-advertising-capabilities-supply-demand-quality?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York, NEW YORK, United States | Remote | Jun 12 |
+| **[PlayON! Sports Network](https://younify.tv)** | **[Senior Product Manager, Engagement](https://jobr.pro/job/41184203/senior-product-manager-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 12 |
 | **[YipitData](https://yipitdata.com)** | **[Data Product Manager - Super Agent](https://jobr.pro/job/41172508/data-product-manager-super-agent?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | Jun 12 |
 | **[Avery Dennison](https://www.averydennison.com)** | **[Product Manager, Specialty Select Solutions](https://jobr.pro/job/41174779/product-manager-specialty-select-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Mentor, OH, United States | Remote | Jun 12 |
 | **[Warner Music Group](https://wmg.com)** | **[Associate Product Manager, Marketing & Automation](https://jobr.pro/job/41174367/associate-product-manager-marketing-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Ontario | Remote | Jun 12 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Software Mind](https://softwaremind.com)** | **[\[NCL\] Technical Product Manager](https://jobr.pro/job/41171202/ncl-technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Kraków, Lesser Poland Voivodeship, Poland | Remote | Jun 12 |
 | **[Experian](https://www.experian.com)** | **[Product Manager - Core Digital Consumer Capabilities](https://jobr.pro/job/41168720/product-manager-core-digital-consumer-capabilities?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | London, England, United Kingdom | Remote | Jun 12 |
 | **[QIMA](https://www.qima.com/)** | **[Lead Product Manager - Client Digital Experience](https://jobr.pro/job/41167165/lead-product-manager-client-digital-experience?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Madrid, MD, Spain | Remote | Jun 12 |
-| **[AVIV Group](https://avivgroup.com)** | **[Product Manager - Lead Management & Agent Tools](https://jobr.pro/job/41168361/product-manager-lead-management-agent-tools?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Berlin, BE, Germany | Remote | Jun 12 |
 
 ---
 
