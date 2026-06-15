@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 15, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 15, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,8 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Lyra Health](https://lyrahealth.com)** | **[Lead Product Manager, Data and AI](https://jobr.pro/job/41193139/lead-product-manager-data-and-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Jun 15 |
+| **[WorkNomads](https://www.worknomads.com)** | **[AI Product Manager (Remote)](https://jobr.pro/job/41194059/ai-product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Bulgaria | Remote | Jun 15 |
 | **[Ping Identity](https://www.pingidentity.com)** | **[Product Manager](https://jobr.pro/job/41191427/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | UK - Remote | Remote | Jun 14 |
 | **[Prosper AI](https://www.getprosper.ai)** | **[Lead AI Product Manager](https://jobr.pro/job/41191525/lead-ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Barcelona | Remote | Jun 14 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Agentic Solutions](https://jobr.pro/job/41190853/senior-product-manager-ai-agentic-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Tel Aviv | Remote | Jun 14 |
@@ -61,12 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[PlayON! Sports Network](https://younify.tv)** | **[Senior Product Manager, Engagement](https://jobr.pro/job/41184203/senior-product-manager-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 12 |
 | **[YipitData](https://yipitdata.com)** | **[Data Product Manager - Super Agent](https://jobr.pro/job/41172508/data-product-manager-super-agent?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | Jun 12 |
 | **[Avery Dennison](https://www.averydennison.com)** | **[Product Manager, Specialty Select Solutions](https://jobr.pro/job/41174779/product-manager-specialty-select-solutions?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Mentor, OH, United States | Remote | Jun 12 |
-| **[Warner Music Group](https://wmg.com)** | **[Associate Product Manager, Marketing & Automation](https://jobr.pro/job/41174367/associate-product-manager-marketing-automation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Ontario | Remote | Jun 12 |
-| **[Mercer Advisors](https://merceradvisors.com)** | **[Product Manager, Investment Platform](https://jobr.pro/job/41172056/product-manager-investment-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote, USA | Remote | Jun 12 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 8.1720100800106e+144k  
+**Current Stats:** 50 jobs | 100% remote | 43 companies | Avg salary: 9.229175179177166e+138k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** agile, analytics  
