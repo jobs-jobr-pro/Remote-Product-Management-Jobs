@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 20, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 20, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -21,6 +21,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Honeycomb.io](https://honeycomb.io)** | **[Senior Product Manager - Scale](https://jobr.pro/job/41301256/senior-product-manager-scale?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | Jun 19 |
 | **[Honeycomb.io](https://honeycomb.io)** | **[Senior Product Manager - Platform](https://jobr.pro/job/41301255/senior-product-manager-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote - United States | Remote | Jun 19 |
 | **[Wise](https://wise.com)** | **[Senior Product Manager - Wise Account](https://jobr.pro/job/41291947/senior-product-manager-wise-account?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | São Paulo, , Brazil | Remote | Jun 19 |
+| **[Effective AI](https://effectiveailabs.com)** | **[Senior/Staff Product Manager](https://jobr.pro/job/41302801/seniorstaff-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 19 |
 | **[M3USA](https://musafir.com)** | **[Product Manager (Remote)](https://jobr.pro/job/41289696/product-manager-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Fort Washington, PA, United States | Remote | Jun 19 |
 | **[IQ-EQ](https://iqeq.com)** | **[Financial Reporting Product Manager](https://jobr.pro/job/41287558/financial-reporting-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hyderabad, Telengana, India | Remote | Jun 19 |
 | **[IQ-EQ](https://iqeq.com)** | **[Investran Associate Product Manager](https://jobr.pro/job/41287559/investran-associate-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hyderabad, Telengana, India | Remote | Jun 19 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Harvey](https://www.harvey.ai)** | **[Legal Engineer, Product Specialist Manager](https://jobr.pro/job/41270589/legal-engineer-product-specialist-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago | Remote | Jun 18 |
 | **[Ironclad](https://ironcladapp.com)** | **[Senior Staff Product Manager, Growth](https://jobr.pro/job/41270606/senior-staff-product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 18 |
 | **[Silver.dev](https://silverdcc.com)** | **[ShareCare - Product Manager](https://jobr.pro/job/41275335/sharecare-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Argentina | Remote | Jun 18 |
-| **[Hipp Health](https://www.hipp.health)** | **[Product Manager](https://jobr.pro/job/41276281/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States | Remote | Jun 18 |
 
 ---
 
