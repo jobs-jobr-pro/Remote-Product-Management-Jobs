@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 21, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Website Builder, Analytics & Tracking Events](https://jobr.pro/job/41308014/sr-product-manager-website-builder-analytics-tracking-events?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
 | **[CodeRabbit](http://www.coderabbit.co)** | **[Principal Product Marketing Manager, Competitive Intelligence](https://jobr.pro/job/41298915/principal-product-marketing-manager-competitive-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Director, Product Management - Global Store Discovery](https://jobr.pro/job/41297538/director-product-management-global-store-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
 | **[Flywire](https://www.flywire.com)** | **[Product Marketing Manager, Education](https://jobr.pro/job/41297092/product-marketing-manager-education?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Boston, MA, United States | Remote | Jun 19 |
@@ -62,14 +63,13 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Agility Robotics](https://www.agilityrobotics.com)** | **[Senior Product Marketing Manager](https://jobr.pro/job/41274398/senior-product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 18 |
 | **[Harvey](https://www.harvey.ai)** | **[Legal Engineer, Product Specialist Manager](https://jobr.pro/job/41270589/legal-engineer-product-specialist-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago | Remote | Jun 18 |
 | **[Ironclad](https://ironcladapp.com)** | **[Senior Staff Product Manager, Growth](https://jobr.pro/job/41270606/senior-staff-product-manager-growth?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 18 |
-| **[Silver.dev](https://silverdcc.com)** | **[ShareCare - Product Manager](https://jobr.pro/job/41275335/sharecare-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Argentina | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.16000100000048e+144k  
+**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.2083343750005e+139k  
 _Note: Stats are approximate and based on available job data_
 
-**Trending Skills:** Various technologies  
+**Trending Skills:** analytics  
 _Note: Skills are identified from job descriptions and may vary_
 
 ## About This Repository
