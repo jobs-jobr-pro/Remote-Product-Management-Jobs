@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 22, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,7 +13,12 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Santen](https://www.santen.com)** | **[Manager, Product Supply Transformation](https://jobr.pro/job/41312133/manager-product-supply-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Osaka, Osaka, Japan | Remote | Jun 22 |
+| **[Deutsche Telekom IT Solutions](https://www.deutschetelekomitsolutions.hu)** | **[Product Manager - T Cloud Public (REF5592O)](https://jobr.pro/job/41315050/product-manager-t-cloud-public-ref5592o?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Budapest, Debrecen, Pécs, Szeged, HUNGARY, Hungary | Remote | Jun 22 |
+| **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Creators](https://jobr.pro/job/41315924/sr-product-manager-creators?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 22 |
+| **[Sociabble]()** | **[Product Marketing Manager - GTM & Sales Enablement (M/F)](https://jobr.pro/job/41313506/product-marketing-manager-gtm-sales-enablement-mf?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Paris, IDF, France | Remote | Jun 22 |
+| **[Santen](https://www.santen.com)** | **[\[Japan\] Manager, Product Supply Transformation](https://jobr.pro/job/41312670/japan-manager-product-supply-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Osaka, Osaka, Japan | Remote | Jun 22 |
+| **[Santen](https://www.santen.com)** | **[\[KOREA\] Marketing Manager (New Product Launch)](https://jobr.pro/job/41312672/korea-marketing-manager-new-product-launch?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Seoul, Seoul, Korea, republic of | Remote | Jun 22 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Product Manager, T0 (Agentic) Finance](https://jobr.pro/job/41315270/staff-product-manager-t0-agentic-finance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 22 |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager, Product Solutions (Remote)](https://jobr.pro/job/41309451/group-product-manager-product-solutions-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York, New York, United States | Remote | Jun 21 |
 | **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41310670/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
 | **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Website Builder, Analytics & Tracking Events](https://jobr.pro/job/41308014/sr-product-manager-website-builder-analytics-tracking-events?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
@@ -58,15 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[R37 Lab, R1 RCM](https://www.r1rcm.com)** | **[Principal Product Manager](https://jobr.pro/job/41275917/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York \| Remote | Remote | Jun 18 |
 | **[Horizon3ai](https://horizon3ai.com)** | **[Senior Product Marketing Manager, WebApp](https://jobr.pro/job/41272804/senior-product-marketing-manager-webapp?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US, Remote | Remote | Jun 18 |
 | **[BOLD](https://www.bold.com)** | **[Product Manager, BOLD Pro](https://jobr.pro/job/41274943/product-manager-bold-pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States (Remote) | Remote | Jun 18 |
-| **[Allocate](https://allocate.co)** | **[Lead Product Manager, AI Operations Platform](https://jobr.pro/job/41288244/lead-product-manager-ai-operations-platform?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Palo Alto Office (Hybrid) | Remote | Jun 18 |
-| **[Genesis Molecular AI](https://genesis.ml)** | **[Engineering Manager, Product Engineering Team](https://jobr.pro/job/41281823/engineering-manager-product-engineering-team?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Mateo, CA | Remote | Jun 18 |
-| **[Maven Clinic](https://mavenclinic.com)** | **[Senior Product Manager, Consumer](https://jobr.pro/job/41273163/senior-product-manager-consumer?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco, CA; Remote, US | Remote | Jun 18 |
-| **[Nevoya](https://www.nevoya.com)** | **[AI Product Manager](https://jobr.pro/job/41287148/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hybrid \| San Francisco | Remote | Jun 18 |
-| **[Instructure](https://instructure.io)** | **[Product Manager, Canvas - US Remote](https://jobr.pro/job/41268406/product-manager-canvas-us-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US-REMOTE | Remote | Jun 18 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.380953571429143e+121k  
+**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.5000016111125e+103k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** analytics  
