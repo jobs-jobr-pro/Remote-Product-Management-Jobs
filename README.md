@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 21, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 22, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -14,7 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Unframe](https://www.unframe.ai)** | **[Group Product Manager, Product Solutions (Remote)](https://jobr.pro/job/41309451/group-product-manager-product-solutions-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | New York, New York, United States | Remote | Jun 21 |
-| **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41309385/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
+| **[SigNoz](https://signoz.io)** | **[Sr Product Manager - IC](https://jobr.pro/job/41310670/sr-product-manager-ic?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
 | **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Website Builder, Analytics & Tracking Events](https://jobr.pro/job/41308014/sr-product-manager-website-builder-analytics-tracking-events?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 21 |
 | **[CodeRabbit](http://www.coderabbit.co)** | **[Principal Product Marketing Manager, Competitive Intelligence](https://jobr.pro/job/41298915/principal-product-marketing-manager-competitive-intelligence?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 20 |
 | **[iHerb](https://ar.iherb.com)** | **[Director, Product Management - Global Store Discovery](https://jobr.pro/job/41297538/director-product-management-global-store-discovery?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States of America - Remote / Home Office | Remote | Jun 20 |
