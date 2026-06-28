@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -14,6 +14,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Principal Product Manager (Hyperscalers)](https://jobr.pro/job/41451827/principal-product-manager-hyperscalers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Jose, CALIFORNIA, United States | Remote | Jun 27 |
+| **[Cosuno](https://www.cosuno.de)** | **[Technical Product Manager](https://jobr.pro/job/41455943/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Germany | Remote | Jun 27 |
 | **[YipitData](https://yipitdata.com)** | **[AI Product Manager](https://jobr.pro/job/41440895/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | Jun 27 |
 | **[CyStack](https://ready.io)** | **[Technical Product Manager](https://jobr.pro/job/41441911/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 27 |
 | **[JoVE](https://www.jove.com)** | **[Product Manager](https://jobr.pro/job/41450473/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 27 |
@@ -62,11 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Binance.us](https://binance.us.com)** | **[Product Manager, Payments](https://jobr.pro/job/41416380/product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | U.S. | Remote | Jun 26 |
 | **[Mural](https://www.mural.co)** | **[Senior Product Manager, Growth & Engagement](https://jobr.pro/job/41409345/senior-product-manager-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States Remote | Remote | Jun 26 |
 | **[Affirm](https://affirm.com)** | **[Director, Product Management](https://jobr.pro/job/41412474/director-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Canada | Remote | Jun 26 |
-| **[Affirm](https://affirm.com)** | **[Director, Product Management (Shopping & Offers)](https://jobr.pro/job/41412475/director-product-management-shopping-offers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote US | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 47 companies | Avg salary: 1.2857150000009524e+121k  
+**Current Stats:** 50 jobs | 100% remote | 48 companies | Avg salary: 1.350000750001e+115k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
