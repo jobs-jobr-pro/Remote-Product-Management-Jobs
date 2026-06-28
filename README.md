@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 28, 2026 at 12:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 18:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Billing Infrastructure](https://jobr.pro/job/41459872/senior-product-manager-ai-billing-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Tel Aviv | Remote | Jun 28 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Principal Product Manager (Hyperscalers)](https://jobr.pro/job/41451827/principal-product-manager-hyperscalers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Jose, CALIFORNIA, United States | Remote | Jun 27 |
 | **[Cosuno](https://www.cosuno.de)** | **[Technical Product Manager](https://jobr.pro/job/41455943/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Germany | Remote | Jun 27 |
 | **[YipitData](https://yipitdata.com)** | **[AI Product Manager](https://jobr.pro/job/41440895/ai-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US Remote | Remote | Jun 27 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Santen](https://www.santen.com)** | **[\[Japan\] Manager, Product Supply Transformation](https://jobr.pro/job/41416298/japan-manager-product-supply-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Osaka, Osaka, Japan | Remote | Jun 26 |
 | **[Binance.us](https://binance.us.com)** | **[Product Manager, Payments](https://jobr.pro/job/41416380/product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | U.S. | Remote | Jun 26 |
 | **[Mural](https://www.mural.co)** | **[Senior Product Manager, Growth & Engagement](https://jobr.pro/job/41409345/senior-product-manager-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States Remote | Remote | Jun 26 |
-| **[Affirm](https://affirm.com)** | **[Director, Product Management](https://jobr.pro/job/41412474/director-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Canada | Remote | Jun 26 |
 
 ---
 
