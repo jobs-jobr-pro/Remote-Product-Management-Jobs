@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 27, 2026 at 18:00 UTC</small></sub>
+<sub><small>Last updated: Jun 28, 2026 at 00:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -26,6 +26,7 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Runlayer](https://www.runlayer.com)** | **[Founding Product Manager, Control Plane](https://jobr.pro/job/41442126/founding-product-manager-control-plane?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hybrid / Remote | Remote | Jun 26 |
 | **[Runlayer](https://www.runlayer.com)** | **[Founding Product Manager, Agents](https://jobr.pro/job/41442125/founding-product-manager-agents?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Hybrid / Remote | Remote | Jun 26 |
 | **[MO Studios](http://www.mostudio.nl)** | **[Senior Product Manager - Temporary hire - Temp W2 or 1099 - path to permanent hire contingent on contract option year extension](https://jobr.pro/job/41436511/senior-product-manager-temporary-hire-temp-w2-or-1099-path-to-permanent-hire-contingent-on-contract-option-year-extension?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 26 |
+| **[Raya](https://raya.com)** | **[Product Manager, Places](https://jobr.pro/job/41452838/product-manager-places?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 26 |
 | **[ezCater, Inc](https://www.ezcater.com)** | **[Senior Product Manager, Data Platform (Remote)](https://jobr.pro/job/41433441/senior-product-manager-data-platform-remote?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Boston, MA | Remote | Jun 26 |
 | **[1upHealth](https://1up.health)** | **[Product Manager](https://jobr.pro/job/41436458/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 26 |
 | **[Jobber](https://www.getjobber.com)** | **[Sr. Manager, Product Marketing (Fintech)](https://jobr.pro/job/41442758/sr-manager-product-marketing-fintech?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote | Remote | Jun 26 |
@@ -62,7 +63,6 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Mural](https://www.mural.co)** | **[Senior Product Manager, Growth & Engagement](https://jobr.pro/job/41409345/senior-product-manager-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States Remote | Remote | Jun 26 |
 | **[Affirm](https://affirm.com)** | **[Director, Product Management](https://jobr.pro/job/41412474/director-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote Canada | Remote | Jun 26 |
 | **[Affirm](https://affirm.com)** | **[Director, Product Management (Shopping & Offers)](https://jobr.pro/job/41412475/director-product-management-shopping-offers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote US | Remote | Jun 26 |
-| **[Revive Media](http://revivemedia.us)** | **[Senior Product Manager, Pre-Campaign Experience](https://jobr.pro/job/41430178/senior-product-manager-pre-campaign-experience?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Los Angeles, California, United States | Remote | Jun 26 |
 
 ---
 
