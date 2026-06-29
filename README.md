@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 12:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,7 +13,17 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
-| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Product Manager, T:0 (Agentic) Finance](https://jobr.pro/job/41464657/senior-product-manager-t0-agentic-finance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 29 |
+| **[Meilleurtaux](https://play.google.com)** | **[Lead Product Manager - Domaine Crédit](https://jobr.pro/job/41469729/lead-product-manager-domaine-credit?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Courbevoie, , France | Remote | Jun 29 |
+| **[Bosch Group](https://www.bosch.com)** | **[Product and Process Junior Manager - IT End Device Products (Printing) - f/m](https://jobr.pro/job/41468351/product-and-process-junior-manager-it-end-device-products-printing-fm?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Łódź, województwo łódzkie, Poland | Remote | Jun 29 |
+| **[Redcare Pharmacy](https://www.redcare-pharmacy.com)** | **[Senior /Principal Product Manager – Search Experience (m/f/d)](https://jobr.pro/job/41468375/senior-principal-product-manager-search-experience-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Amsterdam, NH, Netherlands | Remote | Jun 29 |
+| **[Experian](https://www.experian.com)** | **[Product Manager - New Bets](https://jobr.pro/job/41467570/product-manager-new-bets?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | London, , United Kingdom | Remote | Jun 29 |
+| **[Inetum](https://www.inetum.com)** | **[Product Manager](https://jobr.pro/job/41467571/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 29 |
+| **[Xplor](https://www.xplortechnologies.com)** | **[Product Manager-Payments](https://jobr.pro/job/41467575/product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Pune, MH, India | Remote | Jun 29 |
+| **[Nexthink](https://nexthink.com)** | **[Product Manager](https://jobr.pro/job/41467798/product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lausanne, VD, Switzerland | Remote | Jun 29 |
+| **[HighLevel](https://gohighlevel.com)** | **[Sr. Product Manager - Phone Numbers and KYC](https://jobr.pro/job/41469985/sr-product-manager-phone-numbers-and-kyc?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 29 |
+| **[HighLevel](https://gohighlevel.com)** | **[Staff Product Manager – Voice AI](https://jobr.pro/job/41469987/staff-product-manager-voice-ai?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | India | Remote | Jun 29 |
+| **[Redcare Pharmacy](https://www.redcare-pharmacy.com)** | **[Senior Product Manager – Pharma Process Design & AI (m/f/d)](https://jobr.pro/job/41466060/senior-product-manager-pharma-process-design-ai-mfd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Cologne, , Germany | Remote | Jun 29 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Product Manager, T:0 (Agentic) Finance](https://jobr.pro/job/41467130/senior-product-manager-t0-agentic-finance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 29 |
 | **[Airwallex SG](https://www.airwallex.com)** | **[Staff Product Manager, AI Enablement](https://jobr.pro/job/41463216/staff-product-manager-ai-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 29 |
 | **[OpenAI](https://openai.com)** | **[Product Manager, ChatGPT Sites](https://jobr.pro/job/41464956/product-manager-chatgpt-sites?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 28 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Billing Infrastructure](https://jobr.pro/job/41459872/senior-product-manager-ai-billing-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Tel Aviv | Remote | Jun 28 |
@@ -53,20 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Cordance](https://cordance.co)** | **[Product Marketing Manager](https://jobr.pro/job/41425668/product-marketing-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States - Remote | Remote | Jun 26 |
 | **[2016–2026](https://wealthsimple.com)** | **[Senior Product Manager, Business Banking](https://jobr.pro/job/41430995/senior-product-manager-business-banking?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote (Canada) | Remote | Jun 26 |
 | **[AUTO1 Group](https://www.wirkaufendeinauto.de)** | **[Product Manager, Logistics (f/m/x)](https://jobr.pro/job/41423261/product-manager-logistics-fmx?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Madrid, MD, Spain | Remote | Jun 26 |
-| **[Covista](https://finance.yahoo.com)** | **[Director, AI Product Management](https://jobr.pro/job/41422167/director-ai-product-management?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Chicago, IL, United States | Remote | Jun 26 |
-| **[Connectly Inc](https://www.connectly.ai)** | **[Agent Product Manager - New Verticals](https://jobr.pro/job/41431346/agent-product-manager-new-verticals?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Remote/Brazil | Remote | Jun 26 |
-| **[Neara](https://neara.com)** | **[Principal Product Manager](https://jobr.pro/job/41433974/principal-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Sydney | Remote | Jun 26 |
-| **[Perk](https://perk.com)** | **[Staff Product Manager - Billing (VAT)](https://jobr.pro/job/41422907/staff-product-manager-billing-vat?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Barcelona | Remote | Jun 26 |
-| **[Timocom GmbH](https://karriere.timocom.de)** | **[Product Marketing Manager (m/w/d)](https://jobr.pro/job/41420932/product-marketing-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Erkrath, NRW, Germany | Remote | Jun 26 |
-| **[Lely](https://www.lely.com)** | **[Product Manager Feeding](https://jobr.pro/job/41420867/product-manager-feeding?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Maassluis, ZH, Netherlands | Remote | Jun 26 |
-| **[AVIV Group](https://avivgroup.com)** | **[Senior Product Manager - Demand (F/H/X)](https://jobr.pro/job/41418388/senior-product-manager-demand-fhx?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Paris, IDF, France | Remote | Jun 26 |
-| **[Viseven](https://viseven.com)** | **[Product Marketing Manager (B2B)](https://jobr.pro/job/41420098/product-marketing-manager-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Ukraine | Remote | Jun 26 |
-| **[QIMA](https://www.qima.com)** | **[Data Product Manager and Governance Lead](https://jobr.pro/job/41417349/data-product-manager-and-governance-lead?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 26 |
-| **[StepStone Group](https://stepstonegroup.com)** | **[Product Marketing Manager (m/w/d)](https://jobr.pro/job/41418431/product-marketing-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Dusseldorf, EUROPE, Germany | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 47 companies | Avg salary: 1.2272739545472046e+127k  
+**Current Stats:** 50 jobs | 100% remote | 45 companies | Avg salary: 1.2272739545472046e+127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
