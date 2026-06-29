@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Remote Product Manager Jobs — 2026
 
-<sub><small>Last updated: Jun 29, 2026 at 00:00 UTC</small></sub>
+<sub><small>Last updated: Jun 29, 2026 at 06:00 UTC</small></sub>
 
 This repository collects curated **remote Product Manager job listings** in **2026**.  
 Updated daily by [Jobr.pro](https://jobr.pro?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs).
@@ -13,6 +13,9 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 
 | Company | Position | Location | Type | Date |
 | ------- | -------- | -------- | ---- | ------ |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Senior Product Manager, T:0 (Agentic) Finance](https://jobr.pro/job/41464657/senior-product-manager-t0-agentic-finance?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 29 |
+| **[Airwallex SG](https://www.airwallex.com)** | **[Staff Product Manager, AI Enablement](https://jobr.pro/job/41463216/staff-product-manager-ai-enablement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | US - San Francisco | Remote | Jun 29 |
+| **[OpenAI](https://openai.com)** | **[Product Manager, ChatGPT Sites](https://jobr.pro/job/41464956/product-manager-chatgpt-sites?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Francisco | Remote | Jun 28 |
 | **[monday.com](https://monday.com)** | **[Senior Product Manager - AI Billing Infrastructure](https://jobr.pro/job/41459872/senior-product-manager-ai-billing-infrastructure?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Tel Aviv | Remote | Jun 28 |
 | **[Renesas Electronics](https://www.renesas.com)** | **[Principal Product Manager (Hyperscalers)](https://jobr.pro/job/41451827/principal-product-manager-hyperscalers?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | San Jose, CALIFORNIA, United States | Remote | Jun 27 |
 | **[Cosuno](https://www.cosuno.de)** | **[Technical Product Manager](https://jobr.pro/job/41455943/technical-product-manager?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Germany | Remote | Jun 27 |
@@ -60,13 +63,10 @@ Your Human + AI job search platform that helps you find, auto-apply, and track a
 | **[Viseven](https://viseven.com)** | **[Product Marketing Manager (B2B)](https://jobr.pro/job/41420098/product-marketing-manager-b2b?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Ukraine | Remote | Jun 26 |
 | **[QIMA](https://www.qima.com)** | **[Data Product Manager and Governance Lead](https://jobr.pro/job/41417349/data-product-manager-and-governance-lead?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Lisbon, Lisbon, Portugal | Remote | Jun 26 |
 | **[StepStone Group](https://stepstonegroup.com)** | **[Product Marketing Manager (m/w/d)](https://jobr.pro/job/41418431/product-marketing-manager-mwd?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Dusseldorf, EUROPE, Germany | Remote | Jun 26 |
-| **[Santen](https://www.santen.com)** | **[\[Japan\] Manager, Product Supply Transformation](https://jobr.pro/job/41416298/japan-manager-product-supply-transformation?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | Osaka, Osaka, Japan | Remote | Jun 26 |
-| **[Binance.us](https://binance.us.com)** | **[Product Manager, Payments](https://jobr.pro/job/41416380/product-manager-payments?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | U.S. | Remote | Jun 26 |
-| **[Mural](https://www.mural.co)** | **[Senior Product Manager, Growth & Engagement](https://jobr.pro/job/41409345/senior-product-manager-growth-engagement?utm_source=github&utm_medium=repo&utm_campaign=github-remote-product-management-jobs)** | United States Remote | Remote | Jun 26 |
 
 ---
 
-**Current Stats:** 50 jobs | 100% remote | 48 companies | Avg salary: 1.350000750001e+115k  
+**Current Stats:** 50 jobs | 100% remote | 47 companies | Avg salary: 1.2272739545472046e+127k  
 _Note: Stats are approximate and based on available job data_
 
 **Trending Skills:** Various technologies  
